@@ -1,0 +1,13 @@
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfoInputs.cache
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfo.cs
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.exe
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.deps.json
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.json
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.dev.json
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.dll
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csprojAssemblyReference.cache
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.dll
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Users\rukzw\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.genruntimeconfig.cache
